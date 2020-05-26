@@ -1,0 +1,4 @@
+#Mon May 25 22:15:32 EDT 2020
+base.0=/Users/shivaleelahubli/Documents/Distributed systems/PA_1/Final submission/SimpleMessenger/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
